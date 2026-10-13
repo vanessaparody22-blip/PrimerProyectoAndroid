@@ -18,7 +18,6 @@ La app toma el idioma del dispositivo; cualquier otro idioma cae en español.
 `app/src/main/res/drawable-xhdpi/fondo.9.png` es la imagen de la tarea con sus
 marcas nine-patch. Solo se estira el cielo a la izquierda, a la derecha y
 encima del androide, por lo que este no se deforma al redimensionar.
-La imagen original está en `tools/fondo_original.png`.
 
 ## 3. Múltiples pantallas
 

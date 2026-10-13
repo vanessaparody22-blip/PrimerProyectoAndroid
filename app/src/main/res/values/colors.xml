@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#0888FF</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="blanco_translucido">#33FFFFFF</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_titulo">4dp</dimen>
+    <dimen name="margen_boton">4dp</dimen>
+    <dimen name="texto_titulo">28sp</dimen>
+</resources>
